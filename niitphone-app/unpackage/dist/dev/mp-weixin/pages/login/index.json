@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col"
+  }
+}

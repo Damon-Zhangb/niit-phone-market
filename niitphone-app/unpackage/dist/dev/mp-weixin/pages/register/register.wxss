@@ -1,0 +1,15 @@
+
+.wrap {
+	padding: 30rpx;
+}
+.button {
+	margin-top: 60rpx;
+	padding: 30rpx;
+}
+.title {
+			text-align: left;
+			font-size: 60rpx;
+			font-weight: 500;
+			margin-bottom: 30rpx;
+}
+

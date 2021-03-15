@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-card": "/uview-ui/components/u-card/u-card"
+  }
+}

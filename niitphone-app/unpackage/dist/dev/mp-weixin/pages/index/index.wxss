@@ -1,0 +1,71 @@
+
+.u-demo-area3 {
+	margin: 20rpx;
+}
+.u-demo-area2 {
+	border: #71d5a1;
+	border-style: double;
+}
+.wrap {
+	padding: 30rpx;
+	display: block;
+}
+.item-warp {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.item-warp .item {
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 335rpx;
+	        flex: 0 0 335rpx;
+	height: 400rpx;
+	margin-bottom: 20rpx;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	overflow: hidden;
+}
+.u-card-wrap { 
+		background-color: $u-bg-color;
+		padding: 1px;
+}
+.u-body-item {
+	   margin-top: 5px;
+		font-size: 32rpx;
+		color: #333;
+		padding: 20rpx 10rpx;
+}
+.u-body-item image {
+		width: 180rpx;
+		-webkit-box-flex: 0;
+		-webkit-flex: 0 0 180rpx;
+		        flex: 0 0 180rpx;
+		height: 180rpx;
+		-webkit-border-radius: 8rpx;
+		        border-radius: 8rpx;
+		margin-left: 2rpx;
+}
+.u-body-item-title {
+	margin-left: 25rpx;
+	margin-top: -24rpx;
+}
+.phone_name {
+	font-size: 22px;
+}
+.phone_brand {
+	margin-top: 18rpx;
+}
+.shop-price {
+		margin-top: 5px;
+		font-size: 12px;
+		color: #ff5a5f;
+}
+.shop-price-text {
+		font-size: 16px;
+}
+
