@@ -1,0 +1,59 @@
+product_id,product_name,product_img,product_price,product_class
+1,"小米Redmi Note9Pro","小米Redmi Note9Pro.jpg",1599.00,小米
+2,小米10,小米10.jpg,3999.00,小米
+3,"Redmi K30S","Redmi K30S.jpg",2599.00,小米
+4,"Redmi 10X","Redmi 10X.jpg",1399.00,小米
+5,华为Mate40Pro,华为Mate40Pro.jpg,6499.00,华为
+6,"Mate40 RS","Mate40 RS.jpg",11999.00,华为
+7,华为P40,华为P40.jpg,4488.00,华为
+8,"华为P40 Pro","华为P40 Pro.jpg",6488.00,华为
+9,华为nova7Pro,华为nova7Pro.jpg,3699.00,华为
+10,华为畅享20,华为畅享20.jpg,1499.00,华为
+11,"OPPO Find X2","OPPO Find X2.jpg",4499.00,OPPO
+12,"OPPO Ace2","OPPO Ace2.jpg",3699.00,OPPO
+13,"OPPO Reno5","OPPO Reno5.jpg",2699.00,OPPO
+14,"OPPO K7","OPPO K7.jpg",1899.00,OPPO
+15,"OPPO A72","OPPO A72.jpg",1399.00,OPPO
+16,"vivo X50","vivo X50.jpg",3298.00,vivo
+17,"vivo S7","vivo S7.jpg",2798.00,vivo
+18,"vivo Y52s","vivo Y52s.jpg",1798.00,vivo
+19,"vivo Y5s","vivo Y5s.jpg",1398.00,vivo
+20,"vivo Y3","vivo Y3.jpg",899.00,vivo
+21,"iQOO5 Pro","iQOO5 Pro.jpg",4998.00,vivo
+22,"iQOO Z1","iQOO Z1.jpg",2098.00,vivo
+23,"iQOO Neo3","iQOO Neo3.jpg",2998.00,vivo
+24,"iQOO U1","iQOO U1.jpg",1298.00,vivo
+25,"荣耀30 Pro","荣耀30 Pro.jpg",3999.00,荣耀
+26,荣耀20青春版,荣耀20青春版.jpg,1499.00,荣耀
+27,"荣耀 Play4T Pro","荣耀 Play4T Pro.jpg",1898.00,荣耀
+28,荣耀9X,荣耀9X.jpg,1299.00,荣耀
+29,荣耀X10,荣耀X10.jpg,1899.00,荣耀
+30,"OnePlus8 Pro","OnePlus8 Pro.jpg",4799.00,一加
+31,"真我Q2 Pro","真我Q2 Pro.jpg",1499.00,realme
+32,"真我X7 Pro","真我X7 Pro.jpg",2199.00,realme
+33,真我V5,真我V5.jpg,1299.00,realme
+34,真我X50,真我X50.jpg,3299.00,realme
+35,魅族17,魅族17.jpg,3549.00,魅族
+36,坚果R2,坚果R2.jpg,4499.00,坚果
+37,朵唯X11,朵唯X11.jpg,688.00,DOOV
+38,"朵唯X50 Pro","朵唯X50 Pro.jpg",489.00,DOOV
+39,"Galaxy S20 FE","Galaxy S20 FE.jpg",4249.00,三星
+40,"Galaxy Z Fold2","Galaxy Z Fold2.jpg",16999.00,三星
+41,"Galaxy Note20","Galaxy Note20.jpg",5999.00,三星
+42,"Galaxy Z Flip","Galaxy Z Flip.jpg",7999.00,三星
+43,"Galaxy A71","Galaxy A71.jpg",2899.00,三星
+44,心系天下W20,心系天下W20.jpg,16999.00,三星
+45,诺基亚C3,诺基亚C3.jpg,639.00,诺基亚
+46,诺基亚220,诺基亚220.jpg,279.00,诺基亚
+47,诺基亚2720,诺基亚2720.jpg,569.00,诺基亚
+48,诺基亚800,诺基亚800.jpg,799.00,诺基亚
+49,"中兴天机 AXON20","中兴天机 AXON20.jpg",2498.00,ZTE中兴
+50,"ZTE BLADE V2020","ZTE BLADE V2020.jpg",1299.00,ZTE中兴
+51,索尼手机Xperia5,索尼手机Xperia5.jpg,4399.00,索尼
+52,"索尼 Xperia1","索尼 Xperia1.jpg",7499.00,索尼
+53,8848钛金手机M6尊享版,8848钛金手机M6尊享版.jpg,12999.00,8848
+54,"8848 M5巅峰系列 V2S版","8848 M5巅峰系列 V2S版.jpg",7999.00,8848
+55,"iPhone 12 Pro","iPhone 12 Pro.jpg",9299.00,Apple
+56,iPhone11,iPhone11.jpg,4799.00,Apple
+57,"iPhone XR","iPhone XR.jpg",3999.00,Apple
+58,"iPhone SE","iPhone SE.jpg",3299.00,Apple
