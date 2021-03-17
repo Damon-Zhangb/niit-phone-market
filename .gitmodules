@@ -1,0 +1,6 @@
+[submodule "niitphone-java"]
+	path = niitphone-java
+	url = /Users/sc/Desktop/niit-phone-market/niitphone-java
+[submodule "niitphone-ui"]
+	path = niitphone-ui
+	url = /Users/sc/Desktop/niit-phone-market/niitphone-ui
